@@ -1,0 +1,24 @@
+{ "name": "base-project",
+  "description": "Base project using Bootstrap 3.* and sass with grunt and bower dependencies",
+  "version": "1.0.0",
+  "author": "Syed Iqrar Raza",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/razazaidisd/base-project"
+  },
+  "engines": {
+    "node": "4.1.2",
+    "npm": "3.3.9"
+  },
+  "dependencies": {
+    "grunt": "0.4.5",
+    "grunt-cli": "~0.1.13",
+    "grunt-contrib-sass": "~1.0.0",
+    "grunt-contrib-watch": "~0.6.1",
+    "bower": "^1.4.1",
+    "font-awesome": "4.5.0",
+    "jquery": "2.2.0",
+    "bootstrap": "3.3.6"
+  },
+  "main": "/"
+}
