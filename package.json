@@ -7,6 +7,9 @@
     "type": "git",
     "url": "https://github.com/razazaidisd/base-project"
   },
+  "dependencies": {
+    "node-sass": "^4.9.4"
+  },
   "scripts": {
     "watch": "node-sass --watch assets/sass -o assets/css",
     "build": "node-sass --output-style compressed assets/sass -o assets/css"
